@@ -1,25 +1,26 @@
-name: John Doe
+name: Sunjae Lee
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: leesunjae@snu.ac.kr
+  github: urbanin-sj
+  linkedin: sunjae-lee-049965231
   phone: 
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Korean
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Japanese
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Ph.D in Architecture and Architecture Engineering
+    time: 2017-2024
+    university: Seoul National University
+    details: Exploring Road Segment Character
 
   - degree: BSc in Computer Science
     time: 2010-2014
