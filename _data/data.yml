@@ -17,7 +17,7 @@ languages:
   - idiom: Japanese (Fluent, JLPT N1)
 
 skills:
-  - category: Programming & Data Analysis
+  - category: Data & Programming
     skill: 
       - Python
       - R
@@ -27,7 +27,7 @@ skills:
       - QGIS
       - POSTGIS
       - GeoDa
-  - category: Design & 3D Modeling
+  - category: Design & Modeling
     skill:
       - Adobe Software
       - Microsoft Office
