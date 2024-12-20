@@ -1,16 +1,16 @@
+
 .education {
     margin-bottom: 20px;
     .title {
-        @include sub-header;
+        @include header; // Use the header mixin from _mixins.scss
     }
     .education-item {
         margin-bottom: 20px;
         .degree {
-            @include body-text;
-            font-weight: bold;
+            @include sub-header; // Use the sub-header mixin
         }
         .university {
-            @include body-text;
+            @include body-text; // Use the body-text mixin
         }
         .time {
             @include body-text;
