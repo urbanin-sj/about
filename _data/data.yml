@@ -17,7 +17,7 @@ languages:
   - idiom: Japanese (Fluent, JLPT N1)
 
 skills:
-  - category: Data & Programming
+  - category: Data Science
     skill: 
       - Python (Advanced)
       - R (Intermediate)
