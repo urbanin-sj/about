@@ -17,18 +17,23 @@ languages:
   - idiom: Japanese (Fluent, JLPT N1)
 
 skills:
-  - category: Backend
+  - category: Programming & Data Analysis
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Python
+      - R
+      - SQL
+  - category: Geospatial Analysis
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - QGIS
+      - POSTGIS
+      - GeoDa
+  - category: Design & 3D Modeling
     skill:
-      - Docker
-      - Kubernetes 
+      - Adobe Software
+      - Microsoft Office
+      - Autocad
+      - SketchUp
+      - Rhino
 
 # Profile
 profile: |
