@@ -65,15 +65,11 @@ education:
     university: Daejeon Science High School
 
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Senior Researcher (full-time)
+    time: Mar 2024-Present
+    company: Seoul National University
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Lorem ipsum dol
     technologies_used: | 
       Go, Angular, Typescript, C++
   
