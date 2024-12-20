@@ -16,17 +16,6 @@ languages:
   - idiom: English
   - idiom: Japanese
 
-education:
-  - degree: Ph.D in Architecture and Architecture Engineering
-    time: 2017-2024
-    university: Seoul National University
-    details: |
-      Ph.D. Dissertation: Exploring Road Segment Characteristics through Analysis of Seoul Public Bicycle's Usage Patterns: An Empirical Study Based on Ddareungi Trajectory Big Data
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
 skills:
   - category: Backend
     skill: 
@@ -50,6 +39,31 @@ profile: |
   fugiat nulla pariatur.
 
 # Experience
+education:
+  - degree: Ph.D. in Architecture and Architecture Engineering
+    time: 2017-2024
+    university: Seoul National University
+    details: |
+      Ph.D. Dissertation: Exploring Road Segment Characteristics through Analysis of Seoul Public Bicycle's Usage Patterns: An Empirical Study Based on Ddareungi Trajectory Big Data
+
+  - degree: M.S. in Architecture and Architecture Engineering
+    time: 2015-2017
+    university: Seoul National University
+    details: |
+      M.S. Thesis: Patterns of Elderly's Public Facility Uses by Walking near Metro-stations in Seoul: An Empirical Study Based on "WalkOn" APP Big Data
+
+  - degree: B.A. in Interdisciplinary Program in Information and Culture Technology
+    time: 2008-2015
+    university: Seoul National University
+
+  - degree: B.Arch. in Architecture and Architecture Engineering
+    time: 2008-2015
+    university: Seoul National University
+
+  - degree: Early Graduation
+    time: 2006-2008
+    university: Daejeon Science High School
+
 experience:
   - role: Software Engineer
     time: 2020-Present
