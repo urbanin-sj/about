@@ -65,23 +65,23 @@ education:
     university: Daejeon Science High School
 
 experience:
-  - role: Senior Researcher (full-time)
+  - role: Senior Researcher
     time: Mar 2024-Present
     company: Seoul National University, Institute of Engineering Research
     details: |
-      Lab for Architectural and Urban Space
+      Lab for Architectural and Urban Space (Postdoc)
   
-  - role: Lecturer (part-time)
+  - role: Lecturer
     time: Mar 2024-Present
-    company: Seoul National University, Department of Architecture and Architecture Engineering
+    company: Seoul National University
     details: |
-      Planning in Urban Architecture (2024-2)
+      Planning in Urban Architecture (Fall 2024)
 
-  - role: Lecturer (part-time)
+  - role: Lecturer
     time: Mar 2022-Feb 2025
-    company: Korea National University of Heritage, Department of Traditional Architecture
+    company: Korea National University of Heritage
     details: |
-      Traditional Architectural GIS (2022-1, 2023-1, 2024-1) / Advanced CAD Drawing (2022-1, 2023-1, 2024-1) / Traditional Urban Planning (2022-2, 2023-2)
+      Traditional Architectural GIS (2022-2024, Spring) / Advanced CAD Drawing (2022-2024, Spring) / Traditional Urban Planning (2022-2023, Fall)
 
 
 publications:
