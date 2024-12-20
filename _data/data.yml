@@ -185,6 +185,26 @@ presentation:
     conference: "Autumn Annual Conference of the Architectural Institute of Korea (AIK), Oct 2016"  
 
 projects:
+  - title: "Developing an AI Model to Predict Future Shrinking Cities"
+    details: |
+      Seoul National University / Bumjoon Kang / 2024-Present
+  
+  - title: "Evidence-based Urban Design Platform Development Using Novel Urban Data"
+    details: |
+      National Research Foundation of Korea (NRF) / Bumjoon Kang / 2024-Present
+  
+  - title: "Developing Neighborhood Space Models for Carbon-neutral Lifestyles: AOI Open-data based Mobliity-Activirty Spheres Measurement and Optimization"
+    details: |
+      National Research Foundation of Korea (NRF) / Sohyun Park / 2022-2024
+  
+  - title: "Research on the Neighborhood Environment Index for Spatial Welfare of Infants and Young children"
+    details: |
+      National Research Foundation of Korea (NRF) / Daun Yoo / 2018-2019
+  
+  - title: "A Pilot Study for Spatial Welfare and Street Revitalization, based on Elderly’s Walking and Purchasing Patterns in Residential Areas"
+    details: |
+      Seoul National University / Sohyun Park / 2017-2018
+  
   - title: "Planning for Smart-Aging Neighborhood Environments to Promote Elderly’s Physical Activity: Based on POI Thresholds and Spatial Optimizations with Walking-Mobility Big-data near Metro Stations"
     details: |
       National Research Foundation of Korea (NRF) / Sohyun Park / 2017-2018
