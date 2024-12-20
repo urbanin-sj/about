@@ -172,7 +172,7 @@ presentation:
   - title: "[3] NET ZERO SMART MOBILITY: Exploring Road Segment Characteristics through Analysis of Seoul Public Bicycle's Usage Patterns"
     link: "#"
     authors: "Lee, S."
-    conference: "Spring Annual Conference of UDIK. Urban Design Institute of Korea (Invited Talk), Apr 2024"
+    conference: "Invited Talk at the Spring Annual Conference of the Urban Design Institute of Korea (UDIK), Apr 2024"
 
   - title: "[2] Analyzing Spatial Distribution of Bicycle Sharing System Station's POI: An Open-data Case Study of Bicycle Use as a Short-distance Transportation Mode in Seoul, Korea"
     link: "#"
@@ -182,16 +182,10 @@ presentation:
   - title: "[1] Investigating Elderly's Walking Patterns and Public Facility Use Characteristics: A Case Study Based on \"WalkOn\" App Big Data in Seoul"
     link: "#"
     authors: "Lee, S., & Park, S."
-    conference: "Autumn Annual Conference of AIK. Architectural Institute of Korea, Oct 2016"  
+    conference: "Autumn Annual Conference of the Architectural Institute of Korea (AIK), Oct 2016"  
 
 projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
+  - title: "[1] Advanced Planning Approaches to "
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
