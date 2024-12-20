@@ -42,13 +42,13 @@ profile: |
 education:
   - degree: Ph.D. in Architecture and Architecture Engineering
     time: 2017-2024
-    university: Seoul National University
+    university: Seoul National University, Urban Form and Conservation Lab.
     details: |
       Ph.D. Dissertation: Exploring Road Segment Characteristics through Analysis of Seoul Public Bicycle's Usage Patterns: An Empirical Study Based on Ddareungi Trajectory Big Data
 
   - degree: M.S. in Architecture and Architecture Engineering
     time: 2015-2017
-    university: Seoul National University
+    university: Seoul National University, Urban Form and Conservation Lab.
     details: |
       M.S. Thesis: Patterns of Elderly's Public Facility Uses by Walking near Metro-stations in Seoul: An Empirical Study Based on "WalkOn" APP Big Data
 
@@ -67,11 +67,9 @@ education:
 experience:
   - role: Senior Researcher (full-time)
     time: Mar 2024-Present
-    company: Seoul National University
+    company: Seoul National University, Institute of Engineering Research
     details: |
-      Lorem ipsum dol
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Lab for Architectural and Urban Space
   
   - role: Researcher
     time: 2016-2020
