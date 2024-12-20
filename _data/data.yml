@@ -219,10 +219,8 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: Nov 2020
+    role: Minister's Award (1st Prize)
+    company: Ministry of Health and Welfare
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Research Fellowship 'Reinterpret Disability' 
