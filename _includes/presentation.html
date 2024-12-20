@@ -1,15 +1,15 @@
-{% assign publications = site.data.data.publications %}
-{% if publications %}
-<section class="publications">
-    <h2 class="title">Publications</h2>
-    <div class="publication-items">
-        {% for pub in publications%}
-            <div class="publication-item">
-                <div class="publication-title">
-                    <a href="{{pub.link}}">{{pub.title}}</a>
+{% assign presentation = site.data.data.presentation %}
+{% if presentation %}
+<section class="presentation">
+    <h2 class="title">Presentation</h2>
+    <div class="presentation-items">
+        {% for prs in presentation%}
+            <div class="presentation-item">
+                <div class="presentation-title">
+                    <a href="{{prs.link}}">{{prs.title}}</a>
                 </div>
-                <div class="authors">{{pub.authors}}</div>
-                <div class="conference">{{pub.conference}}</div>   
+                <div class="authors">{{prs.authors}}</div>
+                <div class="conference">{{prs.conference}}</div>   
             </div>
         {%endfor%}
     </div>
