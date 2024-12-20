@@ -42,13 +42,13 @@ profile: |
 education:
   - degree: Ph.D. in Architecture and Architecture Engineering
     time: 2017-2024
-    university: Seoul National University, Urban Form and Conservation Lab.
+    university: Seoul National University, Urban Form and Conservation Lab
     details: |
       Ph.D. Dissertation: Exploring Road Segment Characteristics through Analysis of Seoul Public Bicycle's Usage Patterns: An Empirical Study Based on Ddareungi Trajectory Big Data
 
   - degree: M.S. in Architecture and Architecture Engineering
     time: 2015-2017
-    university: Seoul National University, Urban Form and Conservation Lab.
+    university: Seoul National University, Urban Form and Conservation Lab
     details: |
       M.S. Thesis: Patterns of Elderly's Public Facility Uses by Walking near Metro-stations in Seoul: An Empirical Study Based on "WalkOn" APP Big Data
 
@@ -83,6 +83,23 @@ experience:
     details: |
       Traditional Architectural GIS (Spring, 2022-2024) / Advanced CAD Drawing (Spring, 2022-2024) / Traditional Urban Planning (Fall, 2022-2023)
 
+  - role: Urban Planner
+    time: Feb 2019-Mar 2022
+    company: Tomoon Architects & Engineers
+    details: |
+      Urban Regeneration Project near Guui metro-station Area, Seoul / District Unit Plan Projects / Apartment Complex Reconstruction Projects
+
+  - role: Researcher
+    time: Sep 2018-Feb 2019
+    company: Ewha Womans University
+    details: |
+      S.U.A. Design, Sustainable Urban & Architectural Design Lab
+
+  - role: Research Assistant
+    time: Mar 2015-Jun 2018 / Mar 2022-Feb 2024
+    company: Seoul National University
+    details: |
+      Urban Form and Conservation Lab
 
 
 publications:
