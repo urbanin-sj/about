@@ -4,9 +4,6 @@
     }
     .project {
         margin-bottom: 20px;
-        .project-link {
-            @include body-text;
-        }
         .details {
             @include body-text;
         }
