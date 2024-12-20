@@ -169,10 +169,20 @@ publications:
     conference: "Journal of the Architectural Institute of Korea Planning & Design, 2018"
 
 presentation:
+  - title: "[3] NET ZERO SMART MOBILITY: Exploring Road Segment Characteristics through Analysis of Seoul Public Bicycle's Usage Patterns"
+    link: "#"
+    authors: "Lee, S."
+    conference: "Spring Annual Conference of UDIK. Urban Design Institute of Korea (Invited Talk), Apr 2024"
+
+  - title: "[2] Analyzing Spatial Distribution of Bicycle Sharing System Station's POI: An Open-data Case Study of Bicycle Use as a Short-distance Transportation Mode in Seoul, Korea"
+    link: "#"
+    authors: "Lee, S., & Park, S."
+    conference: "CELA 2023 Annual Conference in Texas, USA, Mar 2023"
+
   - title: "[1] Investigating Elderly's Walking Patterns and Public Facility Use Characteristics: A Case Study Based on \"WalkOn\" App Big Data in Seoul"
     link: "#"
     authors: "Lee, S., & Park, S."
-    conference: "Autumn Annual Conference of AIK. Architectural Institute of Korea, Oct 2016"
+    conference: "Autumn Annual Conference of AIK. Architectural Institute of Korea, Oct 2016"  
 
 projects:
   - title: Cool Project 
