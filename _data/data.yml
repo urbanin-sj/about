@@ -185,6 +185,10 @@ presentation:
     conference: "Autumn Annual Conference of the Architectural Institute of Korea (AIK), Oct 2016"  
 
 projects:
+  - title: "Planning for Smart-Aging Neighborhood Environments to Promote Elderly’s Physical Activity: Based on POI Thresholds and Spatial Optimizations with Walking-Mobility Big-data near Metro Stations"
+    details: |
+      National Research Foundation of Korea (NRF) / Sohyun Park / 2017-2018
+  
   - title: "A Research Project for Developing an Active Aging-Friendly City Model"
     details: |
       Siheung City / Belong Cho / 2016-2017
