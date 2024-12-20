@@ -1,11 +1,11 @@
-.publications {
+.presentation {
     .title {
         @include header;
     }
-    .publication-items {
-        .publication-item {
+    .presentation-items {
+        .presentation-item {
             margin-bottom: 20px;
-            .publication-title {
+            .presentation-title {
                 a {
                     text-decoration: none;
                     font-weight: bold;
