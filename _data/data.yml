@@ -22,12 +22,12 @@ skills:
       - Python (Advanced)
       - R (Intermediate)
       - SQL (Advanced)
-  - category: Geospatial Analysis
+  - category: GIS & Spatial
     skill:
       - QGIS (Advanced)
       - POSTGIS (Intermediate)
       - GeoDa (Advanced)
-  - category: Design & Modeling
+  - category: Design Tools
     skill:
       - Adobe Software (Advanced)
       - Microsoft Office (Advanced)
