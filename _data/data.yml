@@ -108,8 +108,13 @@ experience:
 
 
 publications:
-  - title: "[11] Measuring Bicycle Daily Activity Spaces and Analyzing Usage Patterns in Seoul: Focusing on Round-trip Data from Seoul’s Public Bike-sharing System, Ddareungi"
+  - title: "[12] A Study on Methods and Limitations of Measuring Urban Spatial Changes Based on the Parcel-Building Information System"
     link: "#"
+    authors: "Lee, S."
+    conference: "Journal of the Korea Institute of Spatial Design, 2025"
+    
+  - title: "[11] Measuring Bicycle Daily Activity Spaces and Analyzing Usage Patterns in Seoul: Focusing on Round-trip Data from Seoul’s Public Bike-sharing System, Ddareungi"
+    link: "https://doi.org/10.5659/JAIK.2025.41.2.241"
     authors: "Lee, S., & Park, S."
     conference: "Journal of the Architectural Institute of Korea, 2025"
 
