@@ -109,7 +109,7 @@ experience:
 
 publications:
   - title: "[12] A Study on Methods and Limitations of Measuring Urban Spatial Changes Based on the Parcel-Building Information System"
-    link: "#"
+    link: "http://doi.org/10.35216/kisd.2025.20.3.409"
     authors: "Lee, S."
     conference: "Journal of the Korea Institute of Spatial Design, 2025"
     
@@ -185,13 +185,25 @@ presentation:
     conference: "Autumn Annual Conference of the Architectural Institute of Korea (AIK), Oct 2016"  
 
 projects:
+  - title: "Developing Cross-validation Methods for Building-related Datasets Using Building IDs"
+    details: |
+      Architecture & Urban Research Institure, Korea / Bumjoon Kang / 2025-Present
+      
+  - title: "STOP Zombie Properties: Collaborative-AI Neighborhood Planning System Using Spatio-temporal Analysis and LLM-based Synthetic Participatory Methods"
+    details: |
+      National Research Foundation of Korea (NRF) / Bumjoon Kang / 2025-Present
+
+  - title: "Identifying Neighborhood Boundaries and Features Using Individual's Smartphone Location History Data"
+    details: |
+      National Research Foundation of Korea (NRF) / Bumjoon Kang / 2024-Present
+      
   - title: "Developing an AI Model to Predict Future Shrinking Cities"
     details: |
-      Seoul National University / Bumjoon Kang / 2024-Present
+      Seoul National University / Bumjoon Kang / 2024-2025
   
   - title: "Evidence-based Urban Design Platform Development Using Novel Urban Data"
     details: |
-      National Research Foundation of Korea (NRF) / Bumjoon Kang / 2024-Present
+      National Research Foundation of Korea (NRF) / Bumjoon Kang / 2024-2025
   
   - title: "Developing Neighborhood Space Models for Carbon-neutral Lifestyles: AOI Open-data based Mobility-Activity Spheres Measurement and Optimization"
     details: |
