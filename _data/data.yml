@@ -64,14 +64,19 @@ education:
     university: Daejeon Science High School
 
 experience:
+  - role: Assistant Research Professor
+    time: Sep 2025-Present
+    company: Institute of Construction and Environmental Engineering, Seoul National University 
+    details: |
+
   - role: Postdoctoral Researcher
-    time: Mar 2024-Present
+    time: Mar 2024-Aug 2025
     company: Institute of Engineering Research, Seoul National University 
     details: |
       Lab for Architectural and Urban Space, directed by Prof. Bumjoon Kang
 
   - role: Lecturer
-    time: Mar 2024-Present
+    time: Mar 2024-Aug 2025
     company: Seoul National University
     details: |
       Planning in Urban Architecture (Fall 2024)
