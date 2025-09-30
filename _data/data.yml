@@ -109,6 +109,11 @@ experience:
 
 
 publications:
+  - title: "[14] Development of an AI-based Floor Area Ratio Missing Data Imputation Model Using Parcel-level Spatial, Temporal, and Land Use Contextual Variables"
+    link: "#"
+    authors: "Park, D., Lee, S., & Kang, B."
+    conference: "Journal of the Architectural Institute of Korea, In Press"
+    
   - title: "[13] Uncovering round-trip patterns in bicycle sharing: Differences in short-distance travels from home-based, work-based, and river-based neighborhoods"
     link: "https://doi.org/10.1016/j.jtrangeo.2025.104366"
     authors: "Lee, S., Lee. H., & Park, S."
