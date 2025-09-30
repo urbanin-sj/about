@@ -70,6 +70,12 @@ experience:
     details: |
       Lab for Architectural and Urban Space, directed by Prof. Bumjoon Kang
 
+  - role: Visiting Researcher
+    time: Oct 2025-Sep 2026
+    company: Interfaculty Initiative in Information Studies, The University of Tokyo 
+    details: |
+      Shibuya Lab, directed by Prof. Yuya Shibuya
+
   - role: Postdoctoral Researcher / Lecturer
     time: Mar 2024-Aug 2025
     company: Institute of Engineering Research, Seoul National University 
@@ -109,7 +115,7 @@ experience:
 
 
 publications:
-  - title: "[14] Development of an AI-based Floor Area Ratio Missing Data Imputation Model Using Parcel-level Spatial, Temporal, and Land Use Contextual Variables"
+  - title: "[14] Development of an AI-based floor area ratio missing data imputation model using parcel-level spatial, temporal, and land use contextual variables"
     link: "#"
     authors: "Park, D., Lee, S., & Kang, B."
     conference: "Journal of the Architectural Institute of Korea, In Press"
