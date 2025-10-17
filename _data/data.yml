@@ -64,17 +64,17 @@ education:
     university: Daejeon Science High School
 
 experience:
-  - role: Assistant Research Professor
-    time: Sep 2025-Present
-    company: Institute of Construction and Environmental Engineering, Seoul National University 
-    details: |
-      Lab for Architectural and Urban Space, directed by Prof. Bumjoon Kang
-
   - role: Visiting Researcher
     time: Oct 2025-Present
     company: Interfaculty Initiative in Information Studies, The University of Tokyo 
     details: |
       Shibuya Lab, directed by Prof. Yuya Shibuya
+
+  - role: Assistant Research Professor
+    time: Sep 2025-Present
+    company: Institute of Construction and Environmental Engineering, Seoul National University 
+    details: |
+      Lab for Architectural and Urban Space, directed by Prof. Bumjoon Kang
 
   - role: Postdoctoral Researcher / Lecturer
     time: Mar 2024-Aug 2025
