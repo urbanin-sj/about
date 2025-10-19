@@ -115,6 +115,26 @@ experience:
 
 
 publications:
+  - title: "[-] From snapshot counts to timelines: Stabilization thresholds and neighborhood determinants of durable vacancy"
+    link: "#"
+    authors: "Lee. S., Shin. M., & Kang, B."
+    conference: "Landscape and Urban Planning, Under Review"
+  
+  - title: "[-] From exclusion to choice: A two-stage diagnostic of latent inaccessibility in urban cycling—Evidence from Seoul's public bike GPS census"
+    link: "#"
+    authors: "Lee. S., & Park, S."
+    conference: "Journal of Transport Geography, Under Review"
+  
+  - title: "[-] Beyond vacancy counts: Parcel-level lifecycles, spatial clustering, and demographic-physical decoupling in South Korean cities, 2000–2024"
+    link: "#"
+    authors: "Lee. S., & Kang, B."
+    conference: "Cities, Under Review"
+    
+  - title: "[-] Spatial analysis of urban shrinkage: A scoping review of methodological and analytical gaps"
+    link: "#"
+    authors: "Lee. S., Park, D., & Kang, B."
+    conference: "International Journal of Urban Sciences, Under Review"
+  
   - title: "[14] Development of an AI-based floor area ratio missing data imputation model using parcel-level spatial, temporal, and land use contextual variables"
     link: "#"
     authors: "Park, D., Lee, S., & Kang, B."
