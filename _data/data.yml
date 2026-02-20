@@ -131,9 +131,9 @@ publications:
     conference: "Cities, Under Review"
     
   - title: "[15] Spatial analysis of urban shrinkage: A scoping review of methodological and analytical gaps"
-    link: "#"
+    link: "https://doi.org/10.1080/12265934.2026.2627468"
     authors: "Lee. S., Park, D., & Kang, B."
-    conference: "International Journal of Urban Sciences (SSCI, IF: 3.0), In press"
+    conference: "International Journal of Urban Sciences (SSCI, IF: 3.0), 2026"
   
   - title: "[14] Development of an AI-based floor area ratio missing data imputation model using parcel-level spatial, temporal, and land use contextual variables"
     link: "https://doi.org/10.5659/JAIK.2025.41.12.35"
