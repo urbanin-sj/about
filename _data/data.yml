@@ -117,22 +117,22 @@ experience:
 publications:
   - title: "[-] When do demolished parcels become persistently vacant? Using nationwide administrative parcel histories to identify long-term vacancy and how much remains"
     link: "#"
-    authors: "Lee. S., Shin. M., & Kang, B."
+    authors: "Lee, S., Shin, M., & Kang, B."
     conference: "Environment and Planning B: Urban Analytics and City Science, Under Review"
   
   - title: "[-] What makes streets get used—and what makes them busy? A two-stage diagnostic of urban cycling from Seoul bike-share GPS data"
     link: "#"
-    authors: "Lee. S., & Park, S."
+    authors: "Lee, S., & Park, S."
     conference: "Travel Behaviour and Society, Under Review"
   
   - title: "[-] Beyond vacancy counts: Parcel-level lifecycles, spatial clustering, and demographic-physical decoupling in South Korean cities, 2000–2024"
     link: "#"
-    authors: "Lee. S., & Kang, B."
+    authors: "Lee, S., & Kang, B."
     conference: "Cities, Under Review"
     
   - title: "[15] Spatial analysis of urban shrinkage: A scoping review of methodological and analytical gaps"
     link: "https://doi.org/10.1080/12265934.2026.2627468"
-    authors: "Lee. S., Park, D., & Kang, B."
+    authors: "Lee, S., Park, D., & Kang, B."
     conference: "International Journal of Urban Sciences (SSCI, IF: 3.0), 2026"
   
   - title: "[14] Development of an AI-driven imputation model for floor area ratio missing data incorporating parcel-level spatial, temporal, and land use variables"
