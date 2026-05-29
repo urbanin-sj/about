@@ -115,6 +115,11 @@ experience:
 
 
 publications:
+  - title: "[-] Auditing Vacant-Housing Grades with Street-View Imagery, Computer Vision, and Criterion-Referenced Large Language Models"
+    link: "#"
+    authors: "Lee, S., Kim, J. W., Park, D., & Kang, B."
+    conference: "Computers, Environment and Urban Systems, Under Review"
+    
   - title: "[-] Using Origin–Destination Mobility to Diagnose Early Functional Stress in Seoul and Tokyo: Proximate Circulation, Extra-Local Inflow Support, and Sustaining Cohorts"
     link: "#"
     authors: "Lee, S., Kang, B., & Shibuya, Y."
