@@ -64,14 +64,20 @@ education:
     university: Daejeon Science High School
 
 experience:
+  - role: Assistant Professor
+    time: Oct 2026-Present
+    company: Department of Urban Engineering, The University of Tokyo 
+    details: |
+      Housing and Urban Analysis Unit
+      
   - role: Visiting Researcher
-    time: Oct 2025-Present
+    time: Oct 2025-Sep 2026
     company: Interfaculty Initiative in Information Studies, The University of Tokyo 
     details: |
       Shibuya Lab, directed by Prof. Yuya Shibuya
 
   - role: Assistant Research Professor
-    time: Sep 2025-Present
+    time: Sep 2025-Sep 2026
     company: Institute of Construction and Environmental Engineering, Seoul National University 
     details: |
       Lab for Architectural and Urban Space, directed by Prof. Bumjoon Kang
