@@ -102,6 +102,11 @@ experience:
       Urban Regeneration Project near Guui Station, Seoul / District Unit Plan Projects / Apartment Complex Reconstruction Projects
 
 publications:
+  - title: "[-] Developing a Street View Imagery Processing Pipeline for Building-Level Vacant House Assessment"
+    link: "#"
+    authors: "Park, D., <b>Lee, S.</b>, Kim, J. W., & Kang, B."
+    conference: "Automation in Construction, Under Review"
+
   - title: "[-] Auditing Vacant-Housing Grades with Street-View Imagery, Computer Vision, and Criterion-Referenced Large Language Models"
     link: "#"
     authors: "<b>Lee, S.</b>, Kim, J. W., Park, D., & Kang, B."
@@ -123,9 +128,9 @@ publications:
     conference: "Cities, Under Review"
 
   - title: "[16] When Does Post-Demolition Vacancy Become Persistent, and How Much Vacant Land Remains? Nationwide Evidence from South Korea"
-    link: "#"
+    link: "https://doi.org/10.1177/23998083261507758"
     authors: "<b>Lee, S.</b>, Shin, M., & Kang, B."
-    conference: "Environment and Planning B: Urban Analytics and City Science (SSCI, IF: 2.9), Accepted"
+    conference: "Environment and Planning B: Urban Analytics and City Science (SSCI, IF: 2.9), 2026"
     
   - title: "[15] Spatial analysis of urban shrinkage: A scoping review of methodological and analytical gaps"
     link: "https://doi.org/10.1080/12265934.2026.2627468"
